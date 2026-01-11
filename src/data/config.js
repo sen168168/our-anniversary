@@ -58,7 +58,7 @@ const config = {
   letter: {
     headingLocked: "A locked love letter ✉️",
     hint: "Unlock it by clicking 5 hearts OR typing your name correctly.",
-    typedPlaceholder: "Type her name here…",
+    typedPlaceholder: "Hints: She's probably mad rn....",
     finalLine: "Happy 2nd Anniversary",
 
     photos: [
