@@ -102,7 +102,7 @@ const config = {
       "Happy Anniversary, my naugthy girl.",
       "I love you softly, loudly, and always.",
       "",
-      "— Yours always",
+      "— Yours alwayss",
     ],
   },
 };
